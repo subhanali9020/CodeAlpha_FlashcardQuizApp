@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Flashcard Quiz</string>
+    <string name="no_cards">No flashcards available. Add one!</string>
+    <string name="card_count">Card %1$d / %2$d</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="show_answer">Show Answer</string>
+    <string name="hide_answer">Hide Answer</string>
+    <string name="delete_card">Delete This Card</string>
+    <string name="add_card_title">Add New Flashcard</string>
+    <string name="question_label">Question</string>
+    <string name="answer_label">Answer</string>
+    <string name="btn_add">Add</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="msg_empty_error">Fields cannot be empty</string>
+</resources>
